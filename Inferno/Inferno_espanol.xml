@@ -184,7 +184,7 @@
             <lg n="30">
                <l>Es Homero, el mayor de los poetas;</l>
                <l>el satírico Horacio luego viene;</l>
-               <l>tercero, <persName key="Ovid" ref="http://www.wikidata.org/entity/Q7198" cert="high" type="real">Ovidio</persName>; y último, <persName key="Lucan" ref="http://www.wikidata.org/entity/Q188646">Lucano</persName>. </l>
+               <l>tercero, Ovidio; y último, Lucano. </l>
             </lg>
             <lg n="31">
                <l>Y aunque a todos igual que a mí les cuadra</l>
@@ -237,9 +237,9 @@
                <l>que de placer me colma haberlas visto. </l>
             </lg>
             <lg n="41">
-               <l>A <persName key="Elektra" ref="http://www.wikidata.org/entity/Q131651">Electra</persName> vi con muchos compañeros,</l>
-               <l>y entre ellos conocí a <persName key="Hector" ref="http://www.wikidata.org/entity/Q159666">Héctor</persName> y a <persName key="Aeneas" ref="http://www.wikidata.org/entity/Q82732">Eneas</persName>,</l>
-               <l>y armado a <persName key="Julius Caesar" ref="http://www.wikidata.org/entity/Q1048">César</persName>, con ojos grifaños. </l>
+               <l>A Electra vi con muchos compañeros,</l>
+               <l>y entre ellos conocí a Héctor y a Eneas,</l>
+               <l>y armado a César, con ojos grifaños. </l>
             </lg>
             <lg n="42">
                <l>Vi a <persName key="Penthesilea" ref="http://www.wikidata.org/entity/Q379828">Pantasilea</persName> y a Camila,</l>
